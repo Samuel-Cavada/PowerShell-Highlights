@@ -4,4 +4,8 @@
   </a>
 </p>
 
-# PowerShell-Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/PowerShell-Highlights/main/images/Powershell.png" alt="PowerShell Highlights" width="600">
+</p>
+
+> This section showcases scripting experience using PowerShell for automation, system administration, and security operations.
